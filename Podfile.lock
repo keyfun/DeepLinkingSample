@@ -1,0 +1,18 @@
+PODS:
+  - Bolts (1.6.0):
+    - Bolts/AppLinks (= 1.6.0)
+    - Bolts/Tasks (= 1.6.0)
+  - Bolts/AppLinks (1.6.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.6.0)
+  - DeepLinkKit (1.1.0)
+
+DEPENDENCIES:
+  - Bolts
+  - DeepLinkKit
+
+SPEC CHECKSUMS:
+  Bolts: f52a250053bb517ca874523c3913776359ab3def
+  DeepLinkKit: 3979713c8a0b6bd3259fb7917e572acf56645a35
+
+COCOAPODS: 0.39.0
